@@ -1,0 +1,21 @@
+
+.header__link {
+  color: inherit;
+  font-size: 24px;
+  font-weight: normal;
+  line-height: 1.17;
+  text-decoration: none;
+  text-align: right;
+  cursor: pointer; 
+}
+
+.header__link:hover {
+  text-decoration: underline;
+}
+
+@media screen and (max-width: 425px) {
+  .header__link {
+    font-size: 18px;
+    line-height: 1.33;
+  }
+}

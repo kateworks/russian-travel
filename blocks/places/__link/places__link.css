@@ -1,0 +1,12 @@
+
+.places__link {
+  color: inherit;
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 1.22;  
+  text-decoration: underline;
+  cursor: pointer;
+
+  padding: 0;
+  margin: 0;
+}
