@@ -1,16 +1,16 @@
   
-**[Яндекс.Практикум](https://praktikum.yandex.ru/) Курс: Веб-разработчик** 
+**Курс: Веб-разработчик** 
 -----
 
 ### Тема: HTML и CSS — адаптивная вёрстка и работа с макетом
  
 # Проектная работа №3: Путешествия по России
 
-[Перейти на страницу проекта](https://kateworks.github.io/russian-travel/)
+**[Перейти на страницу проекта](https://kateworks.github.io/russian-travel/)**
 
 Верстка сайта выполнена Пожидаевой Е.А. с использованием HTML5 и CSS.
 
-Дизайн страницы - Яндекс.Практикум.
+Дизайн страницы - [Яндекс.Практикум](https://praktikum.yandex.ru/).
 
 [Ссылка на макет в Figma](https://www.figma.com/file/OyRWEjU6wBwRe1hapzQoLx/Sprint-3%3A-Russia-%2F-desktop-%2B-mobile?node-id=28503%3A0)
 
