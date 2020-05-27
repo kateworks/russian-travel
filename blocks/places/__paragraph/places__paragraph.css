@@ -20,3 +20,11 @@
   }
 }
 
+@media screen and (max-width: 425px) {
+  .places__paragraph {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+
+

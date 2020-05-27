@@ -19,6 +19,7 @@
   .places__title {
     font-size: 2rem;
     line-height: 1.09;
+    padding: 0 1rem;
   }
 }
 

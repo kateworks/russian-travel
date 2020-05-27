@@ -3,21 +3,29 @@
 
 .photo-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
   grid-gap: 1rem;
 
+  width: calc(100% - 6rem);
   padding: 0;
-  margin: 0;
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 1280px) {
+  .photo-grid {
+    width: calc(100vw - 6rem);
+  }
 }
 
 @media screen and (max-width: 768px) {
   .photo-grid {
-    margin: 0 1.5rem;
+    width: calc(100vw - 3rem);
   }
 }
 
 @media screen and (max-width: 425px) {
   .photo-grid {
-    margin: 0 1.125rem;
+    width: calc(100vw - 2rem);
   }
 }
+

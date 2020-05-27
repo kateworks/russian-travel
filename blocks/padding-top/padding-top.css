@@ -1,16 +1,16 @@
 
-.layout__section_padding-top {
+.padding-top {
   padding-top: 5.75rem;
 }
 
 @media screen and (max-width: 768px) {
-  .layout__section_padding-top {
+  .padding-top {
     padding-top: 5.5rem;
   }
 }
 
 @media screen and (max-width: 425px) {
-  .layout__section_padding-top {
+  .padding-top {
     padding-top: 4rem;
   }
 }

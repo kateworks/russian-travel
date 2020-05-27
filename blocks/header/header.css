@@ -2,20 +2,33 @@
 @import url(./__row-links/header__row-links.css);
 @import url(./__row-item/header__row-item.css);
 @import url(./__link/header__link.css);
+@import url(./__link/_type/header__link_type_active.css);
 
 .header {
-  width: 92.5%;
-  min-height: 52px;
   display: flex;
   justify-content: space-between;
 
+  width: calc(100% - 6rem);
   padding: 0;
   padding-top: 1.75rem;
   margin: 0 auto;
 }
 
+@media screen and (max-width: 1280px) {
+  .header {
+    width: calc(100vw - 6rem);
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .header {
+    width: calc(100vw - 3rem);
+  }
+}
+
 @media screen and (max-width: 425px) {
   .header {
+    width: calc(100vw - 2rem);
     padding-top: 1rem;
   }
 }

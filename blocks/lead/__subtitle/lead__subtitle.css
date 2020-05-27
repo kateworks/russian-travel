@@ -9,8 +9,16 @@
   padding: 0;
   padding-top: 32px;
   margin: 0 auto;
+  transition: .5s ease-in-out;
 }
 
+@media screen and (max-width: 720px) {
+  .lead__subtitle {
+    font-size: 22px;
+    line-height: 1.25;
+    max-width: 500px;
+  }
+}
 
 @media screen and (max-width: 425px) {
   .lead__subtitle {

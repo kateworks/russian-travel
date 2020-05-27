@@ -1,8 +1,24 @@
 
 .cover__link {
+  display: block;
+  background-image: url(../../../images/cover-trains.jpg);
+  background-size: cover;
+  background-position: center;
+
+  color: inherit;
+  text-decoration: none;
+  text-align: center;
   cursor: pointer;
   
+  width: 100%;
+  height: 100%;
+
   padding: 0;
   margin: 0;
 }
+
+.cover__link:hover .cover__overlay{
+  background-color: rgba(42, 44, 47, .8);
+}
+
 
