@@ -3,6 +3,7 @@
 @import url(./__text/intro__text.css);
 @import url(./__list/intro__list.css);
 @import url(./__list-item/intro__list-item.css);
+@import url(./__list-item/_style/intro__list-item_style_bold.css);
 
 .intro {
   max-width: 690px;

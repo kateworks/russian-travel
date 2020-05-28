@@ -12,7 +12,7 @@
   transition: .5s ease-in-out;
 }
 
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 730px) {
   .lead__subtitle {
     font-size: 22px;
     line-height: 1.25;
@@ -20,10 +20,9 @@
   }
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 500px) {
   .lead__subtitle {
     font-size: 16px;
-    line-height: 1.25;
     max-width: 288px;
   }
 }

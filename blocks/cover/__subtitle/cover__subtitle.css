@@ -11,6 +11,12 @@
   transition: .5s ease-in-out;
 }
 
+@media screen and (max-width: 600px) {
+  .cover__subtitle {
+    font-size: 1rem;
+  }
+}
+
 @media screen and (max-width: 425px) {
   .cover__subtitle {
     max-width: 18rem;
