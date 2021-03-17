@@ -11,9 +11,7 @@
 
 ## Страница проекта
 
-<a href="https://kateworks.github.io/russian-travel/" target="_blank" title="Перейти на страницу проекта">
-  https://kateworks.github.io/russian-travel/
-</a>
+https://kateworks.github.io/russian-travel/
 
 
 ## Технологии
